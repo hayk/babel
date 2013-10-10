@@ -31,13 +31,13 @@
  */
 
 /* BabelLinks snippet */
-$_lang['babellinks.tpl'] = 'Chunk to display a language link';
-$_lang['babellinks.activeCls'] = 'CSS-класс  активной языковой ссылки';
+$_lang['babellinks.tpl'] = 'Chunk для отображения языковой ссылки';
+$_lang['babellinks.activeCls'] = 'CSS-класс активной языковой ссылки';
 $_lang['babellinks.resourceId'] = 'Id of resource of which links to translations should be displayed';
-$_lang['babellinks.showUnpublished'] = 'Flag whether to show unpublished translations';
-$_lang['babellinks.showCurrent'] = 'Flag whether to show a link to a translation of the current language';
+$_lang['babellinks.showUnpublished'] = 'Флаг, определяющий показывать ли необпубликованные переводы';
+$_lang['babellinks.showCurrent'] = 'Флаг, определяющий показывать ли ссылку на перевод текущего языка';
 
 /* BabelTranslation snippet */
-$_lang['babeltranslation.resourceId'] = 'ID of resource of which a translated resource should be determined';
-$_lang['babeltranslation.contextKey'] = 'Key of context in which translated resource should be determined';
-$_lang['babeltranslation.showUnpublished'] = 'Flag whether to show unpublished translations';
+$_lang['babeltranslation.resourceId'] = 'ID ресурса, в котором переведенный ресурс должен быть определен';
+$_lang['babeltranslation.contextKey'] = 'Ключ контекста, в котором переведенный ресурс должен быть определен';
+$_lang['babeltranslation.showUnpublished'] = 'Флаг, определяющий показывать ли необпубликованные переводы';
