@@ -33,7 +33,7 @@
 /* BabelLinks snippet */
 $_lang['babellinks.tpl'] = 'Chunk для отображения языковой ссылки';
 $_lang['babellinks.activeCls'] = 'CSS-класс активной языковой ссылки';
-$_lang['babellinks.resourceId'] = 'Id of resource of which links to translations should be displayed';
+$_lang['babellinks.resourceId'] = 'Id ресурса в котором должны отображаться ссылки на перевод';
 $_lang['babellinks.showUnpublished'] = 'Флаг, определяющий показывать ли необпубликованные переводы';
 $_lang['babellinks.showCurrent'] = 'Флаг, определяющий показывать ли ссылку на перевод текущего языка';
 
