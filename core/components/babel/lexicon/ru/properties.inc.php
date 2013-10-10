@@ -32,7 +32,7 @@
 
 /* BabelLinks snippet */
 $_lang['babellinks.tpl'] = 'Chunk to display a language link';
-$_lang['babellinks.activeCls'] = 'CSS-класс для активной языковой ссылки';
+$_lang['babellinks.activeCls'] = 'CSS-класс  активной языковой ссылки';
 $_lang['babellinks.resourceId'] = 'Id of resource of which links to translations should be displayed';
 $_lang['babellinks.showUnpublished'] = 'Flag whether to show unpublished translations';
 $_lang['babellinks.showCurrent'] = 'Flag whether to show a link to a translation of the current language';
